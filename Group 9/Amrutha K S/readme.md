@@ -19,5 +19,11 @@ discuss the  ideas with guide jayakrishanan sir.
  Analyse the future scope and feasibility of the project idea
  ## Day 7(oct 17 2022)
  prepare the abstract for the project
+ ##Day 8(oct 18 2022)
+ research on the similar project
+ ##Day 9(oct 19 2022)
+ analysis on drawback of existing system
+ #Day 10(oct 20 2022)
+ checks whether drawback of existing  system can be overcome by our idea
  
  
